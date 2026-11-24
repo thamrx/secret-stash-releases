@@ -24,6 +24,10 @@ This repository holds only the release packages and their release notes. The sou
 
 Secret Stash updates itself: **Settings > About > Check for updates**. Your settings, catalogs and downloads stay.
 
+## Community
+
+Talk with other players and testers on [Discord](https://discord.gg/nTaBBzRdVD).
+
 ## Ideas and problems
 
 Suggest a feature or report a problem under [Issues](../../issues).
