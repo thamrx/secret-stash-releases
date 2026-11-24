@@ -1,7 +1,6 @@
 # Secret Stash releases
 
-Secret Stash is a homebrew app for PS4 consoles with GoldHEN. It browses community catalogs of games and apps in the
-style of the PlayStation Store, with search, sorting and filters, and downloads and installs them on the console.
+Secret Stash is a homebrew app for PS4 consoles with GoldHEN: install games & apps on your PS4 from community catalogs.
 
 This repository holds only the release packages and their release notes. The source code is not published here.
 
@@ -10,7 +9,7 @@ This repository holds only the release packages and their release notes. The sou
 ### From the PS4 browser
 
 1. Start GoldHEN and turn on its payloader server: **GoldHEN > Server Settings > Enable PayLoader Server**.
-2. Open the PS4 web browser and go to **install.secret-stash.app**.
+2. Open the PS4 web browser and go to **[install.secret-stash.app](http://install.secret-stash.app)**.
 3. Press **Install**. Secret Stash downloads, installs and opens.
 
 ### By hand
